@@ -48,5 +48,7 @@ aliSlider
 	                                  navSelClass:"foc",
 	                                  loopFlag: true
 	                      });      
-	【注意事项】由于Slider中内容在初始加载时，js并没有加载完毕，建议利用CSS进行初始设置，只显示某一页，其他页进行隐藏，Slider会在JavaScript中加入对所有页面的显示，这也是为了避免网络缓慢的时候出现的布局问题。
+
+  【注意事项】由于Slider中内容在初始加载时，js并没有加载完毕，建议利用CSS进行初始设置，只显示某一页，其他页进行隐藏，
+              Slider会在JavaScript中加入对所有页面的显示，这也是为了避免网络缓慢的时候出现的布局问题。
 
